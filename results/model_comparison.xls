@@ -1,0 +1,4 @@
+Configuration,Accuracy
+"32 neurons, lr=0.001",0.9850000143051147
+"64 neurons, lr=0.001",0.9850000143051147
+"32 neurons, lr=0.01",0.9825000166893005
